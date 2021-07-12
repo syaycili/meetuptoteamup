@@ -1,0 +1,28 @@
+.ilanalani{
+margin: 3rem 3rem 3rem 3rem;
+text-align: center;
+}
+.card{
+    margin: auto;
+    max-width: 300px !important;
+}
+.col-md-4{
+    margin-bottom: 3rem;
+}
+
+.card-header{
+    font-size: 14px;
+}
+
+.card-body{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.card-text{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    height: 80px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
