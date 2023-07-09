@@ -1,6 +1,6 @@
 # MeetupToTeamup.com
 
-MeetupToTeamup.com is an open-source online platform that helps users find team members, form teams, and collaborate on projects.
+MeetupToTeamup.com is an open-source platform designed to facilitate team building and project collaboration. The website offers essential user management features, including registration, login, and password change. Users can create team listings, specifying categories and names, and join teams with participant limits to ensure optimal productivity. The platform also provides real-time messaging capabilities within teams, promoting seamless communication and collaboration among team members.
 
 ## Technologies Used
 
